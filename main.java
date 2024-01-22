@@ -12,7 +12,7 @@ public class main {
 //        bubbleSort.sort(arr);
 //        bubbleSort.print(arr);
 
-
+        System.out.println("fuck......");
 
 
 
